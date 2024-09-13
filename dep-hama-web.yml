@@ -29,4 +29,4 @@ spec:
     spec:
       containers:
       - name: hama-con
-        image: giga0zinucha/hama-web:latest
+        image: giga0zinucha/hama-web:8
