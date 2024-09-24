@@ -29,4 +29,4 @@ spec:
     spec:
       containers:
       - name: hama-con
-        image: giga0zinucha/hama-web:9
+        image: 756266714368.dkr.ecr.ap-northeast-2.amazonaws.com/hama-web:latest
