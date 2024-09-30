@@ -56,4 +56,4 @@ spec:
     spec:
       containers:
       - name: hama-con
-        image: 756266714368.dkr.ecr.ap-northeast-2.amazonaws.com/hama-web:24
+        image: 756266714368.dkr.ecr.ap-northeast-2.amazonaws.com/hama-web:25
